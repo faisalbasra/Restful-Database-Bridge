@@ -7,4 +7,3 @@ Following databases are supported for driver less connectivity.
 2. SQL Server
 3. My SQL
 4. Teradata
-5.
