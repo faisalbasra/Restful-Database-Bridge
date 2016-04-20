@@ -1,5 +1,6 @@
 package Restful.Database.Bridge;
 
+import com.akaiteam.RestDatabaseBridgeApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.web.WebAppConfiguration;
